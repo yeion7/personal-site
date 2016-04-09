@@ -1,0 +1,12 @@
+node_modules
+*.log
+build
+tmp
+.grunt
+.DS_Store
+src/
+.editorconfig
+.gitattributes
+.yo-rc.json
+.prepros.cfg
+.package.json
