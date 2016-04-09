@@ -91,6 +91,9 @@ a {
 .perfil {
   margin: 5px 0;
 }
+.ref {
+  background: #f00;
+}
 .icon {
   font-size: 1.5em;
   padding: 0.5em;
