@@ -28,18 +28,18 @@ export default class MyDocument extends Document {
           <meta property="og:url" content="https://yeion7.now.sh" />
           <meta property="og:type" content="website" />
           <meta property="og:title" content="Yeison Daza" />
-          <meta property="og:description" content="Build platforms with read" />
+          <meta property="og:description" content="JavaScript Developer | Technical Writer" />
           <meta property="og:image" content="/static/avatar.jpg" />
 
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:site" content="@yeion7" />
           <meta name="twitter:creator" content="@yeion7" />
           <meta name="twitter:title" content="Yeison Daza" />
-          <meta name="twitter:description" content="Personal page" />
+          <meta name="twitter:description" content="JavaScript Developer | Technical Writer" />
           <meta name="twitter:image" content="/static/avatar.jpg" />
 
           <link href="/static/favicon.ico" rel="icon" type="image/x-icon" />
-          <meta name="description" content="Build platforms with read" />
+          <meta name="description" content="JavaScript Developer | Technical Writer" />
           <title>Yeison Daza</title>
 
           <style jsx global>{`
