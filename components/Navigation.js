@@ -1,15 +1,12 @@
-import React, { Component } from "react";
-import Menu from "./Menu";
-import { menus } from "../data.json";
-import MenuIcon from "react-icons/lib/md/menu";
+import React, { Component } from 'react';
+import MenuIcon from 'react-icons/lib/md/menu';
+
+import Menu from './Menu';
+import { menus } from '../data.json';
 
 class Navigation extends Component {
   state = {
-    show: false
-  };
-
-  handleMenu = () => {
-    this.setState({ show: !this.state.show });
+    show: false,
   };
 
   componentDidMount = () => {
@@ -19,6 +16,10 @@ class Navigation extends Component {
     }
   };
 
+  handleMenu = () => {
+    this.setState({ show: !this.state.show });
+  };
+
   render() {
     const { show } = this.state;
     return (
@@ -26,7 +27,7 @@ class Navigation extends Component {
         <div className="menu-responsive" onClick={this.handleMenu}>
           <MenuIcon size={40} color="#aaa" id="menu" />
         </div>
-        <nav style={{ display: show ? "flex" : "none" }}>
+        <nav style={{ display: show ? 'flex' : 'none' }}>
           {menus.map(menu => <Menu key={menu.id} {...menu} />)}
         </nav>
         <style jsx>{`

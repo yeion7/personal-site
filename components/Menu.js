@@ -1,12 +1,13 @@
-import Link from "next/link";
-import React from "react";
+import React from 'react';
+
+import Link from 'next/link';
 
 export default ({ external, url, text }) => (
   <div>
     {external
-      ? <a href={url} className="link" target="_blank" noopener noreferrer>
-          {text}
-        </a>
+      ? <a href={url} className="link" target="_blank" rel="noopener noreferrer">
+        {text}
+      </a>
       : <Link href={url}><a className="link">{text}</a></Link>}
     <style jsx>{`
       .link {

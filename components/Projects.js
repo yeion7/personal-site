@@ -1,5 +1,6 @@
-import Project from "./Project";
-import { projects } from "../data.json";
+import React from 'react';
+import Project from './Project';
+import { projects } from '../data.json';
 
 export default () => (
   <div>

@@ -1,8 +1,9 @@
-import Document, { Head, Main, NextScript } from "next/document";
-import flush from "styled-jsx/server";
+import Document, { Head, Main, NextScript } from 'next/document';
+import flush from 'styled-jsx/server';
+import React from 'react';
 
-import NProgress from "nprogress";
-import Router from "next/router";
+import NProgress from 'nprogress';
+import Router from 'next/router';
 
 Router.onRouteChangeStart = () => NProgress.start();
 Router.onRouteChangeComplete = () => NProgress.done();
@@ -17,18 +18,12 @@ export default class MyDocument extends Document {
 
   render() {
     return (
-      <html>
+      <html lang="es">
         <Head>
-          <meta charset="UTF-8" />
-          <meta
-            name="viewport"
-            content="width=device-width, initial-scale=1.0"
-          />
+          <meta charSet="UTF-8" />
+          <meta name="viewport" content="width=device-width, initial-scale=1.0" />
           <meta name="theme-color" content="#333" />
-          <link
-            href="https://fonts.googleapis.com/css?family=Montserrat"
-            rel="stylesheet"
-          />
+          <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" />
 
           <meta property="og:url" content="https://yeion7.now.sh" />
           <meta property="og:type" content="website" />

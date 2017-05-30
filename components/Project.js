@@ -1,4 +1,6 @@
-import Link from "react-icons/lib/fa/external-link";
+import React from 'react';
+
+import Icon from 'react-icons/lib/fa/external-link';
 
 export default ({ name, description, url }) => (
   <div className="project">
@@ -6,8 +8,8 @@ export default ({ name, description, url }) => (
     <p>
       {description}
     </p>
-    <a href="https://twitter.com/HangoutJs" target="_blank" noopener noreferrer>
-      <Link size={30} color="#aaa" />
+    <a href="https://twitter.com/HangoutJs" target="_blank" rel="noopener noreferrer">
+      <Icon size={30} color="#aaa" />
     </a>
     <style jsx>{`
       .project {

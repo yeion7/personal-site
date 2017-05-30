@@ -1,8 +1,9 @@
-import Header from "../components/Header";
-import Main from "../components/Main";
-import Social from "../components/Social";
-import H1 from "../components/H1";
-import H2 from "../components/H2";
+import React from 'react';
+
+import Header from '../components/Header';
+import Main from '../components/Main';
+import Social from '../components/Social';
+import H1 from '../components/H1';
 
 export default () => (
   <div>
@@ -21,12 +22,12 @@ export default () => (
         </p>
         <p>
           Pero llegue a un punto donde sentía que quería influir en la vida de más personas, este deseo me llevó a investigar cómo podía lograr esto y  hace unos años tuve la fortuna de conocer
-          {" "}
-          <a href="https://platzi.com/" class="ref">Platzi</a>
-          {" "}
+          {' '}
+          <a href="https://platzi.com/" className="ref">Platzi</a>
+          {' '}
           y de escuchar a
-          {" "}
-          <a href="https://twitter.com/freddier" class="ref">Freddy Vega</a>
+          {' '}
+          <a href="https://twitter.com/freddier" className="ref">Freddy Vega</a>
           .
         </p>
         <p>

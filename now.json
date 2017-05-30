@@ -1,0 +1,8 @@
+{
+  "name": "yeion7",
+  "alias": "yeion7.now.sh",
+  "env": {
+    "NODE_ENV": "production"
+  },
+  "type": "npm"
+}

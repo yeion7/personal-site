@@ -1,6 +1,8 @@
-import NProgress from "nprogress";
-import Router from "next/router";
-import Navitation from "./Navigation";
+import React from 'react';
+
+import NProgress from 'nprogress';
+import Router from 'next/router';
+import Navitation from './Navigation';
 
 Router.onRouteChangeStart = () => NProgress.start();
 Router.onRouteChangeComplete = () => NProgress.done();

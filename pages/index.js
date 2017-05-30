@@ -1,9 +1,11 @@
-import Header from "../components/Header";
-import Main from "../components/Main";
-import Social from "../components/Social";
-import Avatar from "../components/Avatar";
-import H1 from "../components/H1";
-import H2 from "../components/H2";
+import React from 'react';
+
+import Header from '../components/Header';
+import Main from '../components/Main';
+import Social from '../components/Social';
+import Avatar from '../components/Avatar';
+import H1 from '../components/H1';
+import H2 from '../components/H2';
 
 export default () => (
   <div>

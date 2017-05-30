@@ -1,3 +1,5 @@
+import React from 'react';
+
 export default () => (
   <div>
     <img src="/static/avatar.jpg" alt="Avatar" />
