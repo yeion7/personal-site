@@ -29,14 +29,14 @@ export default class MyDocument extends Document {
           <meta property="og:type" content="website" />
           <meta property="og:title" content="Yeison Daza" />
           <meta property="og:description" content="JavaScript Developer | Technical Writer" />
-          <meta property="og:image" content="/static/avatar.jpg" />
+          <meta property="og:image" content="/static/og.jpg" />
 
           <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:site" content="@yeion7" />
           <meta name="twitter:creator" content="@yeion7" />
           <meta name="twitter:title" content="Yeison Daza" />
           <meta name="twitter:description" content="JavaScript Developer | Technical Writer" />
-          <meta name="twitter:image" content="/static/avatar.jpg" />
+          <meta name="twitter:image" content="/static/og.jpg" />
 
           <link href="/static/favicon.ico" rel="icon" type="image/x-icon" />
           <meta name="description" content="JavaScript Developer | Technical Writer" />
