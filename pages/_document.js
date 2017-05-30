@@ -60,6 +60,7 @@ export default class MyDocument extends Document {
         color: #333;
         font-size: 16px;
         padding: 0 15px;
+        min-width: 425px;
       }
 
       a {
