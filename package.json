@@ -1,18 +1,21 @@
 {
-  "name": "personal",
-  "version": "0.0.0",
-  "description": "My personal website",
+  "name": "site",
+  "version": "1.0.0",
+  "description": "Personal site",
   "main": "index.js",
+  "repository": "git@github.com:yeion7/site.git",
+  "author": "Yeison Daza <jahir045@gmail.com>",
+  "license": "MIT",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/yeion7/yeion7.github.io.git"
-  },
-  "author": "@yeion7",
-  "license": "BSD",
-  "bugs": {
-    "url": "https://github.com/yeion7/yeion7.github.io/issues"
+  "dependencies": {
+    "next": "^3.0.0-beta6",
+    "nprogress": "^0.2.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-icons": "^2.2.5"
   }
 }

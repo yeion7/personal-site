@@ -1,0 +1,34 @@
+{
+  "menus": [
+    {
+      "id": 1,
+      "external": false,
+      "url": "/",
+      "text": "Inicio"
+    },
+    {
+      "id": 2,
+      "external": false,
+      "url": "/proyectos",
+      "text": "Proyectos"
+    },
+    {
+      "id": 3,
+      "external": true,
+      "url": "https://platzi.com/@yeison7/",
+      "text": "Conocimientos"
+    },
+    {
+      "id": 4,
+      "external": true,
+      "url": "https://medium.com/@yeion7",
+      "text": "Blog"
+    },
+    {
+      "id": 5,
+      "external": false,
+      "url": "/sobre",
+      "text": "Sobre mi"
+    }
+  ]
+}
