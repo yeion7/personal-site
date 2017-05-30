@@ -15,7 +15,7 @@
     {
       "id": 3,
       "external": true,
-      "url": "https://platzi.com/@yeison7/",
+      "url": "https://platzi.com/@yeison/",
       "text": "Conocimientos"
     },
     {
@@ -29,6 +29,38 @@
       "external": false,
       "url": "/sobre",
       "text": "Sobre mi"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "HangoutJS",
+      "description": "Evento en linea donde nos reunimos a compartir conocimiento y experiencias sobre JavaScript",
+      "url": "https://www.youtube.com/playlist?list=PLH3EFUtS4FBzUYU6BSouy0kiX3cnzyTKc"
+    },
+    {
+      "id": 2,
+      "name": "180 websites",
+      "description": "Creo 180 miniproyectos en 180 dias, compartiendo el código y las experiencias en la comunidad.",
+      "url": "https://www.youtube.com/playlist?list=PLH3EFUtS4FBzUYU6BSouy0kiX3cnzyTKc"
+    },
+    {
+      "id": 3,
+      "name": "Impresionante JS",
+      "description": "Recopilamos contenido de calidad en español para quienes desean aprender JavaScript.",
+      "url": "https://github.com/sergiodxa/impresionante-javascript"
+    },
+    {
+      "id": 4,
+      "name": "Canal YouTube",
+      "description": "Enseño sobre linux y software libre, publicando un video nuevo cada semana.",
+      "URL": "https://www.youtube.com/user/yeison0327/"
+    },
+    {
+      "id": 5,
+      "name": "Blog",
+      "description": "Escribo un post semanal sobre JavaScript.",
+      "URL": "https://medium.com/@yeion7"
     }
   ]
 }

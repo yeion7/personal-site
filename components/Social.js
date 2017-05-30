@@ -5,16 +5,21 @@ import Medium from "react-icons/lib/fa/medium";
 
 export default () => (
   <div>
-    <a href="https://twitter.com/yeion7" target="_blank">
+    <a href="https://twitter.com/yeion7" target="_blank" noopener noreferrer>
       <Twitter size={30} color="#aaa" />
     </a>
-    <a href="https://github.com/yeion7/" target="_blank">
+    <a href="https://github.com/yeion7/" target="_blank" noopener noreferrer>
       <Github size={30} color="#aaa" />
     </a>
-    <a href="https://www.youtube.com/user/yeison0327/" target="_blank">
+    <a
+      href="https://www.youtube.com/user/yeison0327/"
+      target="_blank"
+      noopener
+      noreferrer
+    >
       <Youtube size={30} color="#aaa" />
     </a>
-    <a href="https://medium.com/@yeion7" target="_blank">
+    <a href="https://medium.com/@yeion7" target="_blank" noopener noreferrer>
       <Medium size={30} color="#aaa" />
     </a>
     <style jsx>{`

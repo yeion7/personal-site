@@ -4,7 +4,9 @@ import React from "react";
 export default ({ external, url, text }) => (
   <div>
     {external
-      ? <a href={url} className="link">{text}</a>
+      ? <a href={url} className="link" target="_blank" noopener noreferrer>
+          {text}
+        </a>
       : <Link href={url}><a className="link">{text}</a></Link>}
     <style jsx>{`
       .link {

@@ -85,7 +85,7 @@ var MyDocument = function (_Document) {
           fileName: _jsxFileName,
           lineNumber: 21
         }
-      }, _react2.default.createElement("meta", { charset: "UTF-8", "data-jsx": 972774799,
+      }, _react2.default.createElement("meta", { charset: "UTF-8", "data-jsx": 2263399070,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 22
@@ -93,12 +93,12 @@ var MyDocument = function (_Document) {
       }), _react2.default.createElement("meta", {
         name: "viewport",
         content: "width=device-width, initial-scale=1.0",
-        "data-jsx": 972774799,
+        "data-jsx": 2263399070,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 23
         }
-      }), _react2.default.createElement("meta", { name: "theme-color", content: "#333", "data-jsx": 972774799,
+      }), _react2.default.createElement("meta", { name: "theme-color", content: "#333", "data-jsx": 2263399070,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 27
@@ -106,98 +106,98 @@ var MyDocument = function (_Document) {
       }), _react2.default.createElement("link", {
         href: "https://fonts.googleapis.com/css?family=Montserrat",
         rel: "stylesheet",
-        "data-jsx": 972774799,
+        "data-jsx": 2263399070,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 28
         }
-      }), _react2.default.createElement("meta", { property: "og:url", content: "https://yeion7.now.sh", "data-jsx": 972774799,
+      }), _react2.default.createElement("meta", { property: "og:url", content: "https://yeion7.now.sh", "data-jsx": 2263399070,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 33
         }
-      }), _react2.default.createElement("meta", { property: "og:type", content: "website", "data-jsx": 972774799,
+      }), _react2.default.createElement("meta", { property: "og:type", content: "website", "data-jsx": 2263399070,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 34
         }
-      }), _react2.default.createElement("meta", { property: "og:title", content: "Yeison Daza", "data-jsx": 972774799,
+      }), _react2.default.createElement("meta", { property: "og:title", content: "Yeison Daza", "data-jsx": 2263399070,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 35
         }
-      }), _react2.default.createElement("meta", { property: "og:description", content: "Build platforms with read", "data-jsx": 972774799,
+      }), _react2.default.createElement("meta", { property: "og:description", content: "Build platforms with read", "data-jsx": 2263399070,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 36
         }
-      }), _react2.default.createElement("meta", { property: "og:image", content: "/static/avatar.jpg", "data-jsx": 972774799,
+      }), _react2.default.createElement("meta", { property: "og:image", content: "/static/avatar.jpg", "data-jsx": 2263399070,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 37
         }
-      }), _react2.default.createElement("meta", { name: "twitter:card", content: "summary_large_image", "data-jsx": 972774799,
+      }), _react2.default.createElement("meta", { name: "twitter:card", content: "summary_large_image", "data-jsx": 2263399070,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 39
         }
-      }), _react2.default.createElement("meta", { name: "twitter:site", content: "@yeion7", "data-jsx": 972774799,
+      }), _react2.default.createElement("meta", { name: "twitter:site", content: "@yeion7", "data-jsx": 2263399070,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 40
         }
-      }), _react2.default.createElement("meta", { name: "twitter:creator", content: "@yeion7", "data-jsx": 972774799,
+      }), _react2.default.createElement("meta", { name: "twitter:creator", content: "@yeion7", "data-jsx": 2263399070,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 41
         }
-      }), _react2.default.createElement("meta", { name: "twitter:title", content: "Yeison Daza", "data-jsx": 972774799,
+      }), _react2.default.createElement("meta", { name: "twitter:title", content: "Yeison Daza", "data-jsx": 2263399070,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 42
         }
-      }), _react2.default.createElement("meta", { name: "twitter:description", content: "Personal page", "data-jsx": 972774799,
+      }), _react2.default.createElement("meta", { name: "twitter:description", content: "Personal page", "data-jsx": 2263399070,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 43
         }
-      }), _react2.default.createElement("meta", { name: "twitter:image", content: "/static/avatar.jpg", "data-jsx": 972774799,
+      }), _react2.default.createElement("meta", { name: "twitter:image", content: "/static/avatar.jpg", "data-jsx": 2263399070,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 44
         }
-      }), _react2.default.createElement("link", { href: "/static/favicon.ico", rel: "icon", type: "image/x-icon", "data-jsx": 972774799,
+      }), _react2.default.createElement("link", { href: "/static/favicon.ico", rel: "icon", type: "image/x-icon", "data-jsx": 2263399070,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 46
         }
-      }), _react2.default.createElement("meta", { name: "description", content: "Build platforms with read", "data-jsx": 972774799,
+      }), _react2.default.createElement("meta", { name: "description", content: "Build platforms with read", "data-jsx": 2263399070,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 47
         }
       }), _react2.default.createElement("title", {
-        "data-jsx": 972774799,
+        "data-jsx": 2263399070,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 48
         }
       }, "Yeison Daza"), _react2.default.createElement(_style2.default, {
-        styleId: 972774799,
-        css: "\n      * {\n        margin: 0;\n        box-sizing: border-box;\n      }\n\n      body {\n        margin: 0;\n        padding: 0;\n        font-family: 'Montserrat', sans-serif;\n        color: #333;\n        font-size: 16px;\n        padding: 0 15px;\n      }\n\n      a {\n        text-decoration: none;\n        color: inherit;\n      }\n\n      #nprogress {\n        pointer-events: none;\n      }\n\n      #nprogress .bar {\n        background: #48929B;\n        position: fixed;\n        z-index: 1031;\n        top: 0;\n        left: 0;\n        width: 100%;\n        height: 2px;\n      }\n\n      #nprogress .peg {\n        display: block;\n        position: absolute;\n        right: 0px;\n        width: 100px;\n        height: 100%;\n        box-shadow: 0 0 10px #22BAD9, 0 0 5px #48929B;\n        opacity: 1.0;\n        transform: rotate(3deg) translate(0px, -4px);\n\n    "
+        styleId: 2263399070,
+        css: "\n      * {\n        margin: 0;\n        box-sizing: border-box;\n      }\n\n      body {\n        margin: 0;\n        padding: 0;\n        font-family: 'Montserrat', sans-serif;\n        color: #333;\n        font-size: 16px;\n        padding: 0 15px;\n        min-width: 425px;\n      }\n\n      a {\n        text-decoration: none;\n        color: inherit;\n      }\n\n      #nprogress {\n        pointer-events: none;\n      }\n\n      #nprogress .bar {\n        background: #48929B;\n        position: fixed;\n        z-index: 1031;\n        top: 0;\n        left: 0;\n        width: 100%;\n        height: 2px;\n      }\n\n      #nprogress .peg {\n        display: block;\n        position: absolute;\n        right: 0px;\n        width: 100px;\n        height: 100%;\n        box-shadow: 0 0 10px #22BAD9, 0 0 5px #48929B;\n        opacity: 1.0;\n        transform: rotate(3deg) translate(0px, -4px);\n\n    "
       })), _react2.default.createElement("body", { className: "custom_class", __source: {
           fileName: _jsxFileName,
-          lineNumber: 96
+          lineNumber: 97
         }
       }, this.props.customValue, _react2.default.createElement(_document.Main, {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 98
+          lineNumber: 99
         }
       }), _react2.default.createElement(_document.NextScript, {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 99
+          lineNumber: 100
         }
       })));
     }

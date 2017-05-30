@@ -1,4 +1,3 @@
-import Link from "next/link";
 import Header from "../components/Header";
 import Main from "../components/Main";
 import Social from "../components/Social";
