@@ -61,6 +61,48 @@
       "name": "Blog",
       "description": "Escribo un post semanal sobre JavaScript.",
       "URL": "https://medium.com/@yeion7"
+    },
+    {
+      "id": 6,
+      "name": "Music Native",
+      "description": "App con React Native que te permite reproducir canciones y álbumes.",
+      "URL": "https://github.com/yeion7/music-native"
+    },
+    {
+      "id": 7,
+      "name": "Illustraciones con CSS",
+      "description": "Illustraciones maquetadas con CSS",
+      "URL": "https://github.com/yeion7/css-animations"
+    },
+    {
+      "id": 8,
+      "name": "Template con Flexbox",
+      "description": "Template maquetado con Flexbox",
+      "URL": "https://github.com/yeion7/yebo-flexbox"
+    },
+    {
+      "id": 9,
+      "name": "Plataforma de cartas",
+      "description": "Vistas para una plataforma de cartas",
+      "URL": "https://github.com/yeion7/cards-platform"
+    },
+    {
+      "id": 10,
+      "name": "Plataforma de noticias",
+      "description": "Vistas para una plataforma de noticias",
+      "URL": "https://github.com/yeion7/topics-platform"
+    },
+    {
+      "id": 11,
+      "name": "Plataforma de juegos",
+      "description": "Vistas para una plataforma de juegos",
+      "URL": "https://github.com/yeion7/games-platform"
+    },
+    {
+      "id": 12,
+      "name": "Plataforma de videos",
+      "description": "Vistas para una plataforma de videos",
+      "URL": "https://github.com/yeion7/videos-platform"
     }
   ]
 }
