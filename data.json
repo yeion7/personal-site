@@ -42,7 +42,7 @@
       "id": 2,
       "name": "180 websites",
       "description": "Creo 180 miniproyectos en 180 dias, compartiendo el código y las experiencias en la comunidad.",
-      "url": "https://www.youtube.com/playlist?list=PLH3EFUtS4FBzUYU6BSouy0kiX3cnzyTKc"
+      "url": "https://github.com/yeion7/websites"
     },
     {
       "id": 3,
@@ -54,55 +54,55 @@
       "id": 4,
       "name": "Canal YouTube",
       "description": "Enseño sobre linux y software libre, publicando un video nuevo cada semana.",
-      "URL": "https://www.youtube.com/user/yeison0327/"
+      "url": "https://www.youtube.com/user/yeison0327/"
     },
     {
       "id": 5,
       "name": "Blog",
       "description": "Escribo un post semanal sobre JavaScript.",
-      "URL": "https://medium.com/@yeion7"
+      "url": "https://medium.com/@yeion7"
     },
     {
       "id": 6,
       "name": "Music Native",
       "description": "App con React Native que te permite reproducir canciones y álbumes.",
-      "URL": "https://github.com/yeion7/music-native"
+      "url": "https://github.com/yeion7/music-native"
     },
     {
       "id": 7,
       "name": "Illustraciones con CSS",
       "description": "Illustraciones maquetadas con CSS",
-      "URL": "https://github.com/yeion7/css-animations"
+      "url": "https://github.com/yeion7/css-animations"
     },
     {
       "id": 8,
       "name": "Template con Flexbox",
       "description": "Template maquetado con Flexbox",
-      "URL": "https://github.com/yeion7/yebo-flexbox"
+      "url": "https://github.com/yeion7/yebo-flexbox"
     },
     {
       "id": 9,
       "name": "Plataforma de cartas",
       "description": "Vistas para una plataforma de cartas",
-      "URL": "https://github.com/yeion7/cards-platform"
+      "url": "https://github.com/yeion7/cards-platform"
     },
     {
       "id": 10,
       "name": "Plataforma de noticias",
       "description": "Vistas para una plataforma de noticias",
-      "URL": "https://github.com/yeion7/topics-platform"
+      "url": "https://github.com/yeion7/topics-platform"
     },
     {
       "id": 11,
       "name": "Plataforma de juegos",
       "description": "Vistas para una plataforma de juegos",
-      "URL": "https://github.com/yeion7/games-platform"
+      "url": "https://github.com/yeion7/games-platform"
     },
     {
       "id": 12,
       "name": "Plataforma de videos",
       "description": "Vistas para una plataforma de videos",
-      "URL": "https://github.com/yeion7/videos-platform"
+      "url": "https://github.com/yeion7/videos-platform"
     }
   ]
 }

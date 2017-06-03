@@ -8,7 +8,7 @@ export default ({ name, description, url }) => (
     <p>
       {description}
     </p>
-    <a href="https://twitter.com/HangoutJs" target="_blank" rel="noopener noreferrer">
+    <a href={url} target="_blank" rel="noopener noreferrer">
       <Icon size={30} color="#aaa" />
     </a>
     <style jsx>{`
