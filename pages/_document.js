@@ -11,9 +11,20 @@ Router.onRouteChangeError = () => NProgress.done();
 
 export default class MyDocument extends Document {
   static getInitialProps({ renderPage }) {
-    const { html, head, errorHtml, chunks } = renderPage();
+    const {
+      html,
+      head,
+      errorHtml,
+      chunks,
+    } = renderPage();
     const styles = flush();
-    return { html, head, errorHtml, chunks, styles };
+    return {
+      html,
+      head,
+      errorHtml,
+      chunks,
+      styles,
+    };
   }
 
   render() {
@@ -51,7 +62,8 @@ export default class MyDocument extends Document {
       body {
         margin: 0;
         padding: 0;
-        font-family: 'Montserrat', sans-serif;
+        font-family: 'Montserrat', "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica", "Arial", "sans-serif", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        text-rendering: optimizeLegibility;
         color: #333;
         font-size: 16px;
         padding: 0 15px;
@@ -87,7 +99,8 @@ export default class MyDocument extends Document {
         opacity: 1.0;
         transform: rotate(3deg) translate(0px, -4px);
 
-    `}</style>
+    `}
+          </style>
         </Head>
         <body className="custom_class">
           {this.props.customValue}

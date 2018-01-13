@@ -3,6 +3,7 @@ import Twitter from 'react-icons/lib/fa/twitter';
 import Github from 'react-icons/lib/fa/github';
 import Youtube from 'react-icons/lib/fa/youtube-play';
 import Medium from 'react-icons/lib/fa/medium';
+import Twitch from 'react-icons/lib/fa/twitch';
 
 export default () => (
   <div>
@@ -17,6 +18,9 @@ export default () => (
     </a>
     <a href="https://medium.com/@yeion7" target="_blank" rel="noopener noreferrer">
       <Medium size={30} color="#aaa" />
+    </a>
+    <a href="https://www.twitch.tv/yeisondaza" target="_blank" rel="noopener noreferrer">
+      <Twitch size={30} color="#aaa" />
     </a>
     <style jsx>{`
       div {

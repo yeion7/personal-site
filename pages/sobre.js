@@ -21,20 +21,10 @@ export default () => (
           Al principio de mi carrera, me enfoque en la administración de redes y soporte, tuve la posibilidad de apoyar a varias empresas en estas áreas y aprender de muchas personas.
         </p>
         <p>
-          Pero llegue a un punto donde sentía que quería influir en la vida de más personas, este deseo me llevó a investigar cómo podía lograr esto y  hace unos años tuve la fortuna de conocer
-          {' '}
-          <a href="https://platzi.com/" className="ref">Platzi</a>
-          {' '}
-          y de escuchar a
-          {' '}
-          <a href="https://twitter.com/freddier" className="ref">Freddy Vega</a>
-          .
+          Buscando nuevos retos encontré la programación y me enamoré de construir cosas, poder resolver todos los días problemas nuevos es mágico.
         </p>
         <p>
-          Gracias él y su team pude aprender cómo funcionaba la industria del software, como cada dia se resuelven problemas cada vez más grandes con código y yo quería hacer parte de eso.
-        </p>
-        <p>
-          Gracias a ellos y su increíble comunidad ahora soy un Frontend Developer, que busca resolver problemas con código, compartir experiencias y conocimientos.
+          Tuvé la suerte de trabajar con buenas startups en Colombia y hoy trabajo como Frontend construyendo interfaces que ayudan a hacer un poco mejor la vida de las personas.
         </p>
 
         <p>
